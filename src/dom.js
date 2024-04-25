@@ -1,5 +1,7 @@
 const dom = {
-    parent: document.getElementById('parent'),
+    buttonContainer: document.querySelector('.btn-container'),
+    menuItems: document.querySelector('.section-center'),
+
 };
 
 export default dom;
